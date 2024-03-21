@@ -1,6 +1,6 @@
 ### Hello there! 
 
-I'm a Java Developer with a strong interest in data structures and algorithms. I believe they are key to writing efficient, maintainable code.
+I'm a Java Developer with a strong interest in open-source. 
 
 **My Technical Stack**:
  
