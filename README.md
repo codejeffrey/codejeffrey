@@ -11,4 +11,4 @@ I'm a Java Developer with a strong interest in open-source.
   
 Explore my repositories and feel free to give feedback. You can reach me at [jeffrey.algorithm@gmail.com](mailto:jeffrey.algorithm@gmail.com). Let's connect and learn from each other. Happy coding!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejeffrey&show_icons=true&theme=transparent)
+<img align="" height="190px" src="https://github-readme-stats.vercel.app/api?username=codejeffrey&show_icons=true&theme=transparent"/>
